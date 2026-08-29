@@ -16,5 +16,5 @@ Scripts I'm writing while learning PowerShell and Active Directory administratio
 ## Requirements
 
 - PowerShell 5.1+
-- RSAT Active Directory module
+- Importing of modules (I will write which ones are needed as comments above the code)
 - Admin rights where noted
