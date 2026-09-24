@@ -1,0 +1,11 @@
+FirstName,LastName,Username,Password,boss
+James,Carter,jcarter,P@ssw0rd01!,None
+Emily,Thompson,ethompson,P@ssw0rd02!,James Carter
+Daniel,Morgan,dmorgan,P@ssw0rd03!,James Carter
+Sophie,Bennett,sbennett,P@ssw0rd04!,Emily Thompson
+Oliver,Hughes,ohughes,P@ssw0rd05!,Emily Thompson
+Chloe,Turner,cturner,P@ssw0rd06!,Daniel Morgan
+George,Walker,gwalker,P@ssw0rd07!,Daniel Morgan
+Amelia,Collins,acollins,P@ssw0rd08!,James Carter
+Jack,Mitchell,jmitchell,P@ssw0rd09!,Sophie Bennett
+Grace,Roberts,groberts,P@ssw0rd10!,Sophie Bennett
